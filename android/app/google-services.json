@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240316769962",
+    "project_id": "sshop-bbf39",
+    "storage_bucket": "sshop-bbf39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240316769962:android:054cd2727726f95c9692d3",
+        "android_client_info": {
+          "package_name": "com.example.grocery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240316769962-uk6i09c9jr98ha7ii3p06mj63lcfkt60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOnGdemselzVgMMpbF98FC9TFugO6jaig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240316769962-uk6i09c9jr98ha7ii3p06mj63lcfkt60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
